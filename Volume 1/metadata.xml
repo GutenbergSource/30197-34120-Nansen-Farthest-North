@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Farthest North</dc:title>
+      <dc:creator>Fridtjof Nansen (1861–1930)</dc:creator>
+      <dc:creator>Otto Neumann Sverdrup (1854–1930)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2009-10-07</dc:publisher>
+      <dc:date>2009-10-07</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+This eBook is produced by Jeroen Hellingman and the Online Distributed Proofreading Team at www.pgdp.net.
+This is volume one, volume two is available at Project Gutenberg as ebook number 34120.
+Prepared from scans made of a copy in my collection. A number of scan-sets are available on-line:
+
+UK Edition, 1897, Westminster: A. Constable, Vol 1, Vol 2.US Edition, 1897, New York, Harper &amp; brothers, Vol 1, Vol 2.US Edition, 1898, One volume edition.
+
+The Norwegian original is also available on line:
+Fram over polhavet: den norske polarfærd 1893–1896 (1897): Vol 1. (New York Public Library) 1897 (TIA Copy) Vol 2. (New York Public Library) 1897 (TIA Copy).
+The scientific results of this expedition in six volumes are also partly available as scans, and can be located by searching Archive.org.
+
+
+
+</dc:rights>
+      <dc:subject>Arctic regions</dc:subject>
+      <dc:subject>Fram Expedition</dc:subject>
+      <dc:identifier>pg:30197</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
